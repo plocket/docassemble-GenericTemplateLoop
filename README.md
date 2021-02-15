@@ -1,1 +1,8 @@
-Tests a possible infinite loop on refresh of final page possibly to do with a template.
+# docassemble.GenericTemplateLoop
+
+A docassemble extension.
+
+## Author
+
+mb.restless.tech@gmail.com
+
